@@ -230,7 +230,7 @@
       import("https://www.gstatic.com/firebasejs/12.19.0/firebase-firestore.js")
     ]);
     const firebaseConfig = {
-      apiKey: "AIzaSyBWg1VEilkAu0Ay6iDqnvOfKNrivS-6DDs",
+      apiKey: "AIzaSyBWg1VEilkAu0Ay6iDqnvOfKNrivS-6DDs", //Key com finalidade de estudos, por isso está exposta
       authDomain: "hackathon-000.firebaseapp.com",
       projectId: "hackathon-000",
       storageBucket: "hackathon-000.firebasestorage.app",
